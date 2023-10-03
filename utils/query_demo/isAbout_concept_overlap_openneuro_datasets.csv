@@ -1,0 +1,273 @@
+,Concept,Dateset Counts
+0,age,206
+1,sex,175
+2,participant group,44
+3,handedness assessment,44
+4,gender,47
+5,patients birth date,3
+6,impulsivity,7
+7,appetitive motivation,1
+8,behavioral inhibition,1
+9,bmi (physical examination),9
+10,hyperactivity,6
+11,attention,4
+12,attention deficit hyperactivity disorder,6
+13,sustained attention,2
+14,inhibition,2
+15,visual form recognition,1
+16,error detection,2
+17,date,8
+18,reward anticipation,2
+19,phenolphthaleins,2
+20,emotion,3
+21,race assessment,8
+22,color-word stroop task,3
+23,response inhibition,4
+24,attention deficit-hyperactivity disorder,1
+25,attention networks test,1
+26,attentional blink task,1
+27,attenuate,1
+28,attenuation,1
+29,attenuation correction method,1
+30,attractor neural network,1
+31,attribute entity role,1
+32,atypical pelizaeus-merzbacher disease,1
+33,audio recording,1
+34,audio track,1
+35,audio-visual target-detection task,1
+36,audition,1
+37,auditory areas of aba 2009,1
+38,auditory attention,1
+39,auditory cortex,1
+40,temperament,1
+41,education assessment,2
+42,working memory,1
+43,central executive,1
+44,psychosis,2
+45,psychotic disorder,2
+46,schizophrenia,2
+47,scan length,2
+48,scanning sequence,2
+49,schaffer collaterals,2
+50,scheduled performing physicians name,1
+51,scheduled procedure step sequence,2
+52,scattered spatiotemporal region,2
+53,scheduled procedure step status,1
+54,scheduled station name,1
+55,ssrt (stop signal reaction time),2
+56,cognitive control,1
+57,intelligence,14
+58,work of breathing,3
+59,weight,14
+60,genotype,1
+61,heart rate,1
+62,temperature,1
+63,ethnicity,6
+64,agreeableness,2
+65,education (wechsler test of adult reading),6
+66,sleep,1
+67,anxiety,3
+68,major depressive disorder,1
+69,empathy,1
+70,insomnia,1
+71,mini mental state examination,3
+72,memory,3
+73,language,2
+74,spatial ability,6
+75,self report of psychopathy,1
+76,drug,2
+77,response to,1
+78,pain measurement,1
+79,naming,1
+80,motor praxis,1
+81,recall,1
+82,memory retrieval,1
+83,visual memory,1
+84,verbal memory,1
+85,verbal fluency,1
+86,semantic category,1
+87,processing speed,1
+88,episodic memory,2
+89,declarative memory,1
+90,birth date,1
+91,height,8
+92,reasoning,6
+93,traumatic memory,1
+94,bipolar disorder,2
+95,behavioral inhibition (temperament),1
+96,motor control,1
+97,task switching,1
+98,set shifting,1
+99,resistance to distractor inference,1
+100,semantic memory,1
+101,perceptual identification,1
+102,reading,1
+103,crystallized intelligence,8
+104,phonological awareness,4
+105,phonological assembly,6
+106,phonological processing,6
+107,short-term memory,5
+108,phonological loop,5
+109,phonological working memory,5
+110,visuospatial sketch pad,1
+111,visual working memory,1
+112,inattention,3
+113,learning disability,3
+114,father_age (demographics),3
+115,alcohol abuse,7
+116,substance abuse,7
+117,arousal (emotion),4
+118,father's education,3
+119,father's occupation,3
+120,speech disorder,3
+121,mother_education (demographics short form),3
+122,occupation,3
+123,patients primary language code modifier sequence,3
+124,reading disorder,3
+125,phonological encoding,6
+126,grapheme,6
+127,language processing,6
+128,word recognition,6
+129,mathematical reasoning,3
+130,fluid intelligence,6
+131,attitude,1
+132,eating disorder,1
+133,traumatic brain injury,1
+134,vision,1
+135,bodyfat (eating disorder demographics),2
+136,generalized anxiety disorder,1
+137,separation anxiety disorder,1
+138,anxiety disorder,4
+139,caffeine,2
+140,repetition time,2
+141,alcohol dependence,3
+142,substance dependence,4
+143,loneliness,2
+144,marital (demographics form),3
+145,the penn state worry questionnaire,2
+146,spatial working memory,4
+147,limited capacity,4
+148,cannabis abuse,1
+149,cannabis dependence,1
+150,handedness (demographics),1
+151,risk aversion,1
+152,punishment processing,1
+153,loss anticipation,1
+154,decision under uncertainty,1
+155,risk processing,1
+156,risk seeking,2
+157,diffusion-weighted magnetic resonance imaging,1
+158,scale for the assessment of negative symptoms,1
+159,scale for the assessment of positive symptoms,1
+160,scalloped,1
+161,scaly,1
+162,scan arc,1
+163,scan velocity,1
+164,scan-related personnel attribute,1
+165,scanning electron microscope,1
+166,scanning electron microscopic imaging assay,1
+167,scarred,1
+168,scatter correction method,1
+169,scatter fraction factor,1
+170,scattered temporal region,1
+171,scene recognition task,1
+172,scheduled human performers sequence,1
+173,scheduled performing physician identification sequence,1
+174,scheduled procedure step description,1
+175,scheduled procedure step end date,1
+176,scheduled procedure step end time,1
+177,scheduled procedure step id,1
+178,scheduled procedure step location,1
+179,scheduled procedure step modification date and time,1
+180,scheduled procedure step start date,1
+181,spatial memory,1
+182,autism spectrum disorder,1
+183,autistic disorder,1
+184,nicotine dependence,1
+185,marital status assessment,1
+186,novelty detection,1
+187,temperament and character inventory,2
+188,auditory working memory,1
+189,attention shifting,1
+190,obsessive-compulsive disorder,1
+191,scheduled procedure step start date and time,1
+192,scheduled procedure step start time,1
+193,scheduled processing applications code sequence,1
+194,scheduled protocol code sequence,1
+195,scheduled station ae title,1
+196,scheduled station class code sequence,1
+197,scheduled station geographic location code sequence,1
+198,scheduled station name code sequence,1
+199,scheduled step attributes sequence,1
+200,"diagnosis, psychiatric",2
+201,sl-25,1
+202,nsc-102816,1
+203,clinic activities,1
+204,"aminopterin, disodium salt",1
+205,bisalax,1
+206,chlornitromycin,1
+207,cytonal,1
+208,"aneurysm, anterior communicating artery",1
+209,charcoaid,1
+210,rubeomycin a,1
+211,brij-58,1
+212,"cephalexin, (6r-(6alpha,7beta))-isomer",1
+213,estrumate,1
+214,cost-effectiveness analysis,1
+215,p-chlorophenoxyisobutyrate,1
+216,microcytotoxicity test,1
+217,celospor,1
+218,"review, continued stay",1
+219,cysteamine tosylate,1
+220,periactin,1
+221,cyanidanol-3,1
+222,"cyclophosphamide, (r)-isomer",1
+223,spiroctan,1
+224,schizoaffective disorder,1
+225,weight (lbs),1
+226,personality assessment,2
+227,"personnel administration, hospital",1
+228,"peritoneal dialysis, continuous ambulatory",1
+229,personality disorders,1
+230,persuasive communication,1
+231,"pest control, biological",1
+232,peritoneal diseases,1
+233,personnel staffing and scheduling,1
+234,pertussis toxin,1
+235,personnel selection,1
+236,personal health services,1
+237,"personnel, hospital",1
+238,peritoneal neoplasms,1
+239,peristalsis,1
+240,peritonitis,1
+241,personality tests,1
+242,periostitis,1
+243,phenetidine,1
+244,phenylenediamines,1
+245,phenazocine,1
+246,phenoperidine,1
+247,phencyclidine abuse,1
+248,phagocyte bactericidal dysfunction,1
+249,phenacetin,1
+250,active recall,1
+251,long-term memory,1
+252,learning,1
+253,recognition,1
+254,cognitive function,1
+255,bipolar ll disorder,1
+256,mania (diagnosis),1
+257,risk,1
+258,hallucination,1
+259,paranoid personality disorder,1
+260,theory of mind,1
+261,language comprehension,3
+262,duration,1
+263,clinical global impression (cgi),2
+264,social phobia,2
+265,olfaction,1
+266,perception,1
+267,anticipation,1
+268,fatigability,1
+269,fear,1
+270,uncertainty,1
+271,appetite,1
